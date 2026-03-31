@@ -1,0 +1,48 @@
+	(1)
+VARIABLES	Importer side
+	
+lngdp_j	0.795***
+	(0.000)
+lnepu_j	0.075
+	(0.644)
+lnepu_j_l2	-0.180*
+	(0.058)
+lnepu_j_l4	-0.135
+	(0.138)
+remoteness_i	-0.468
+	(0.124)
+wto_d	0.118
+	(0.211)
+lnpop_j	-0.138
+	(0.102)
+2008.year	-0.078
+	(0.302)
+2009.year	-0.026
+	(0.670)
+2010.year	-0.025
+	(0.809)
+2011.year	-0.142
+	(0.255)
+2012.year	-0.059
+	(0.706)
+2013.year	-0.069
+	(0.625)
+2014.year	-0.055
+	(0.663)
+2015.year	-0.021
+	(0.882)
+2016.year	-0.075
+	(0.655)
+2017.year	-0.124
+	(0.432)
+2018.year	-0.143
+	(0.398)
+2019.year	-0.162
+	(0.427)
+	
+Observations	273
+R-squared	0.822
+Observations	273
+Number of countries	21
+Robust pval in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

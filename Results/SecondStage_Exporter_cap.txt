@@ -1,0 +1,48 @@
+	(1)
+VARIABLES	Exporter_cap
+	
+lngdp_i	1.629***
+	(0.000)
+lnepu_i	-0.163
+	(0.807)
+lnepu_i_l2	-0.373
+	(0.308)
+lnepu_i_l4	-0.704**
+	(0.034)
+remoteness_o	-0.817
+	(0.355)
+wto_o	1.485***
+	(0.000)
+lnpop_i	-0.487*
+	(0.051)
+2008.year	-0.204
+	(0.505)
+2009.year	-0.373
+	(0.178)
+2010.year	-0.177
+	(0.699)
+2011.year	-0.195
+	(0.708)
+2012.year	0.124
+	(0.832)
+2013.year	0.058
+	(0.915)
+2014.year	0.137
+	(0.776)
+2015.year	0.324
+	(0.515)
+2016.year	0.341
+	(0.574)
+2017.year	0.180
+	(0.759)
+2018.year	0.134
+	(0.827)
+2019.year	0.207
+	(0.776)
+	
+Observations	273
+R-squared	0.579
+Observations	273
+Number of countries	21
+Robust pval in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

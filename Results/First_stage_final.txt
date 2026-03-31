@@ -1,0 +1,15 @@
+	(1)
+VARIABLES	PPML
+	
+rta	0.094***
+	(0.023)
+	
+Observations	551,471
+Exporter $\times$ Year FE	Yes
+Importer $\times$ Year FE	Yes
+Pair Fixed Effects	Yes
+Pseudo R-squared	0.992
+Observations	551471
+Number of pairs	36633
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

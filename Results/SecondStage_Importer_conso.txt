@@ -1,0 +1,48 @@
+	(1)
+VARIABLES	Importer_conso
+	
+lngdp_j	0.691***
+	(0.000)
+lnepu_j	0.055
+	(0.696)
+lnepu_j_l2	-0.170**
+	(0.029)
+lnepu_j_l4	-0.142
+	(0.130)
+remoteness_i	-0.454
+	(0.114)
+wto_d	-0.119
+	(0.409)
+lnpop_j	-0.273**
+	(0.022)
+2008.year	-0.007
+	(0.906)
+2009.year	-0.016
+	(0.754)
+2010.year	0.066
+	(0.512)
+2011.year	-0.001
+	(0.994)
+2012.year	0.118
+	(0.412)
+2013.year	0.103
+	(0.422)
+2014.year	0.119
+	(0.293)
+2015.year	0.126
+	(0.312)
+2016.year	0.079
+	(0.587)
+2017.year	0.064
+	(0.651)
+2018.year	0.035
+	(0.814)
+2019.year	0.020
+	(0.912)
+	
+Observations	272
+R-squared	0.713
+Observations	272
+Number of countries	21
+Robust pval in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

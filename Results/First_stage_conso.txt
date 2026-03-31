@@ -1,0 +1,15 @@
+	(1)
+VARIABLES	PPML_conso
+	
+rta	0.080**
+	(0.032)
+	
+Observations	548,433
+Exporter × Year FE	Yes
+Importer × Year FE	Yes
+Pair Fixed Effects	Yes
+Pseudo R-squared	0.989
+Observations	548433
+Number of pairs	35796
+Robust standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
